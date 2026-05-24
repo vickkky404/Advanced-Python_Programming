@@ -4,7 +4,7 @@
 
 
 import socket
-class threading
+import threading
 import sys
 
 HOST = '127.0.0.1'
@@ -85,4 +85,4 @@ def start_client():
 
 
 if __name__ == "__main__":
-    start_clients()
+    start_client()
